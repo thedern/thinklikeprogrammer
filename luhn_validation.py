@@ -90,4 +90,4 @@ def main(number_string):
 
 
 if __name__ == '__main__':
-    main('23123')
+    main('123456')
